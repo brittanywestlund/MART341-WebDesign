@@ -1,5 +1,5 @@
-1. Txtytfyt ycyfcyjc hgccfgxxfgxh.
+1. A directory is a folder used to organize different files into groups. Files are placed into directories which can be nested. The path of a file refers to the nesting of its directories.
 
-2. Tfdtu ugytd ibgiug tdsxers.
+2. Version Control Systems are helpful for several reasons. First, they help with collaboration and allow an entire team to work on the same file at the same time which aids wordflow. Second, VCSs keep projects organized by eliminating to need to save multiple versions of the same project. Third, VCSs allow previous versions of a project to be restored. If a developer decides they do not like the direction they are headed, they can easily revert back to the previous version. Furthermore, since a description is necessary to commit changes to a project it can be easier to identify what went wrong when troubleshooting is required. Finally, VSC can act as a backup, allowing developers to access their project even if their server breaks down. 
 
-3. Ytfciuvuigibiuyyugu ibiubhi jhb.
+3. My favorite artistic medium is digital, specifically Procreate for digital illustration. Procreate is my favorite medium because of its intuitiveness. I also love that it is portable. 
