@@ -1,0 +1,15 @@
+# Responses
+
+What is the relationship between an IP address and the DNS?
+
+DNS translates domain names to IP addresses so browsers can load the requested resources from the internet. This benefits the user greatly as they just need a domain name (eg. google.com) instead of having to memorize the unique IP addresses for every site you like to visit (eg. 192.168.1.1).
+
+What is a cookie?
+
+Cookies are small blocks of data created by a web server while a user is browsing a website and placed on the user's computer or other device by the user’s web browser. When you return to the website after the cookie is placed, it will “remember” you and be able restore what was in your shopping cart, remember preferences, or keep you logged in, etc.
+
+What are the three essential parts of a URL?
+Example URL: https://www.google.com/flights
+1. The scheme or protocol. HTTP:// or HTTPS://
+2. The domain name (google) and the Top Level Domain Name (.com)
+3. The path leading to a specific web page.  /flights
