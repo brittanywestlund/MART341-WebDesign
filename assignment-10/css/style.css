@@ -1,0 +1,96 @@
+body {
+    background-color: #EBB2A9;
+    font-family: Palatino, serif;
+    text-align: center;
+
+  }
+
+div {
+      display: block;
+      background-color: #FFD2D0;
+      width: 550px;
+      margin: auto;
+      padding: 15px 30px 30px;
+      text-align: center;
+
+    }
+
+.hero {
+      background-color: #FFECE3;
+    }
+
+#visit {
+      display: inline-block;
+      padding-bottom: 80px;
+      margin-top: -40px;
+
+    }
+
+#title {
+      font-size: 35px;
+      color: #CD5C5C;
+    }
+
+img {
+      border-radius: 50%;
+    }
+
+.dot {
+      height: 100px;
+      width: 100px;
+      border-radius: 50%;
+      display: inline-block;
+      margin: auto;
+      text-align: center;
+      float: right;
+    }
+
+#palette {
+      background-color: white;
+      display: inline-block;
+      margin-left: -30px;
+      padding-top: 15px;
+      margin-top: 55px;
+    }
+
+.dot.one {
+      background-color: #FAF0E6;
+      display: inline-block;
+      margin-right: 70px;
+    }
+.dot.two {
+      background-color: #FFD2D0;
+      display: inline-block;
+    }
+.dot.three {
+      background-color: #EBB2A9;
+      display: inline-block;
+    }
+.dot.four {
+      background-color: #B54346;
+      display: inline-block;
+    }
+
+p {
+    text-align: center;
+    margin: auto;
+
+}
+
+nav {
+    padding-bottom:4%;
+    width: 550px;
+    text-align: right;
+    margin: auto;
+    }
+
+#bottom {
+    float: left;
+    display: inline-block;
+    margin-left: -30px;
+    height: 100px;
+  }
+
+a {
+    font-size: 18px;
+    }
