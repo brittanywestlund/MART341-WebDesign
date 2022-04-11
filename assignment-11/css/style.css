@@ -1,0 +1,50 @@
+#header{
+    font-family: Indie Flower;
+}
+
+body {
+    background-image: url("../images/texture.png");
+    weight: 200px;
+    font-family: Quicksand;
+    text-align: left;
+}
+
+.quote {
+    font-size: 25px;
+    width: 500px;
+    text-align: center;
+    float: left;
+    font-family: Indie Flower;
+
+}
+
+h1{
+    color: cadetblue;
+    font-family: Quicksand;
+    font-size: 35px;
+    letter-spacing: 0.3em;
+}
+
+
+#title:hover{
+    letter-spacing: 0.3em;
+    font-weight: 700;
+    color: cadetblue;
+}
+
+.titleBorder:hover{
+    background-color: cadetblue;
+    color: white;
+    text-indent: 1em;
+    font-family: Quicksand;
+}
+
+.content-paragraphk:visited{
+    color: darkgreen;
+
+}
+
+.image {
+    size: 50%;
+
+}
