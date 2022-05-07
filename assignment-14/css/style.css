@@ -1,13 +1,18 @@
 body {
-    background-color: lightgray;
-    font-family: Palatino, serif;
-    text-align: center;
+      font-family: Palatino, serif;
+      text-align: center;
+      background-image: url("images/texture.png");
+      background-repeat: repeat;
+      background-size: cover;
+      background-size: 15%;
 
-  }
+    }
 
 div {
+      background-image: url("images/texture.png");
+      background-repeat: repeat;
+      background-size: contain;
       display: block;
-      background-color: lightgray;
       width: 1200px;
       margin: auto;
       padding: 15px 30px 30px;
@@ -20,11 +25,14 @@ h2 {
       font-family: 'Square Peg', cursive;
       margin-right: 60px;
 
-}
+    }
 
 .hero {
-      background-color: lightgray;
+      background-image: url("images/texture.png");
+      background-repeat: repeat;
+      background-size: cover;
       margin-top: 50px;
+
     }
 
 #visit {
@@ -45,7 +53,7 @@ h2 {
 
 
 
-}
+    }
 
 .dot {
       height: 100px;
@@ -70,29 +78,37 @@ h2 {
       display: inline-block;
       margin-right: 70px;
     }
+
+
 .dot.two {
       background-color: #FFD2D0;
       display: inline-block;
+
     }
+
 .dot.three {
       background-color: #EBB2A9;
       display: inline-block;
+
     }
+
 .dot.four {
       background-color: #B54346;
       display: inline-block;
+
     }
 
 p {
     text-align: center;
 
-}
+    }
 
 nav {
     padding-bottom:4%;
     width: 550px;
     text-align: right;
     margin: auto;
+
     }
 
 #bottom {
@@ -100,97 +116,53 @@ nav {
     display: inline-block;
     margin-left: -30px;
     height: 100px;
-  }
+
+    }
 
 a {
     font-size: 18px;
+
     }
 
 
 /* Menu */
 
 header {
-  position: fixed;
-  width: 99%;
-  height: 4em;
-  top: 0px;
-  font-family: serif;
-  text-align: right;
+    position: fixed;
+    width: 99%;
+    height: 4em;
+    top: 0px;
+    font-family: serif;
+    text-align: right;
 
-}
+    }
 
 /* Set the layout of the menu */
 
 .nav-item {
-  display: inline-block;
-  margin: .1em .1em;
-  background-color: gray;
-  padding: 0.4em 0.1em;
-  border-radius: 1em;
-  max-width: 5em;
-  text-align: center;
+    display: inline-block;
+    margin: .1em .1em;
+    background-color: gray;
+    padding: 0.4em 0.1em;
+    border-radius: 1em;
+    max-width: 5em;
+    text-align: center;
 
-}
+    }
 
 .nav-item:hover {
-  background-color: darkgray;
+    background-color: darkgray;
 
-}
+    }
 
 /* Styling the links */
 
 .nav-item a {
-  color: white;
-  text-decoration: none;
-
-
-}
-
-/* Dropdown */
-
-.dropdown {
-  display: inline-block;
+    color: white;
+    text-decoration: none;
 
 }
 
-.dropdown-content {
-  display: none;
-  position: absolute;
-  margin: 0.5em 0 0 -1em;
-  color: navy;
-  background-color: darkgray;
-  z-index: 1;
-
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-  margin-left: -100px;
-
-
-}
-
-.dropdown-content a {
-  color: gray;
-
-}
-
-/* Dropdown item display Styling */
-
-.dropdown-item {
-  display: block;
-  text-align: left;
-  margin: 0;
-  padding 0.5em 1em 0.5em 1em;
-  min-width: 4em;
-
-}
-
-.dropdown-item:hover, .dropdown-item:hover a {
-  color: white;
-  background-color: lightgray;
-
-}
 
 #about {
 border-radius: 0em 0em 1em 1em;
